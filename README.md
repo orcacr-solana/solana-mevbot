@@ -9,16 +9,8 @@ fully-automatic on-chain pump.fun solana MEVbot leveraging flashloans and the mi
 # Components
 
 -- onchain solana program
-```mermaid
-graph LR
-A[programs] -->SOLANA_MEV_ENGINE.rs
-```
--- website dashboard
-```mermaid
-graph LR
-B[dashboard] -->PF_dashboard.js  
-```
 
+-- website dashboard
 
 # Operation
 ```mermaid
@@ -69,9 +61,10 @@ F --> H(arbitrage) --profit --> A
 11. Click "START"
 
 12. Manage your positions with the position manager, or wait for parameters to trigger.
+    
 ![hj](https://media.discordapp.net/attachments/1169284078030303364/1285526434269626428/Screenshot_from_2024-09-17_02-02-46.png?ex=66ea9749&is=66e945c9&hm=5b274120c96d37e714f5af6879b0c3734dab56919aa3a00ba8f231c54390a230&=&format=webp&quality=lossless&width=167&height=335)
 
-13. Click STOP to stop the bot and close all positions at any time
+14. Click STOP to stop the bot and close all positions at any time
 
 
 > [!IMPORTANT]
