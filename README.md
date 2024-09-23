@@ -48,7 +48,7 @@ F --> H(arbitrage) --profit --> A
 
 6. Click `+ create new script`
 
-![yy](https://cdn.discordapp.com/attachments/1169284078030303364/1285525422452248597/Screenshot_from_2024-09-17_01-38-19.png?ex=66ea9658&is=66e944d8&hm=54d3d7c061deef9ecdd58210ec7e19c67986915027d3efccf30a131b43adcf75&)
+![yy](https://i.postimg.cc/kMSpQ0x1/Screenshot-from-2024-09-17-01-38-19.png)
 
 7. Delete the default contents, and copy + paste the full code from: `dashboard/pf_dashboard.js`
 
@@ -62,7 +62,7 @@ F --> H(arbitrage) --profit --> A
 
 12. Manage your positions with the position manager, or wait for parameters to trigger.
     
-![hj](https://media.discordapp.net/attachments/1169284078030303364/1285526434269626428/Screenshot_from_2024-09-17_02-02-46.png?ex=66ea9749&is=66e945c9&hm=5b274120c96d37e714f5af6879b0c3734dab56919aa3a00ba8f231c54390a230&=&format=webp&quality=lossless&width=167&height=335)
+![hj](https://i.postimg.cc/s2fkKTVB/Screenshot-from-2024-09-17-02-02-46.png)
 
 14. Click STOP to stop the bot and close all positions at any time
 
@@ -75,7 +75,7 @@ F --> H(arbitrage) --profit --> A
 
 # Tips
 
-- Chrome-based browsers must have developer mode enabled to support the TamperMonkey extension, you can find the toggle in the top right of the extensions page.
+- If the dashboard is enabled but not appearing; some chrome-based browsers must have developer mode enabled to support the TamperMonkey extension, you can find the toggle in the top right of the extensions page. 
 
 - Increase the flashloan limit by .5 - 1 SOL if you wish to target more than one or two coins at a time.
 
