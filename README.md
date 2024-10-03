@@ -56,7 +56,7 @@ F --> H(arbitrage) --profit --> A
 
 9. Visit https://pump.fun and refresh the page. The dashboard should now be visible
 
-10. Fund your operator's wallet. Recommended amount is 1.5 - 2 SOL for proper token acquisition and smooth operation. 
+10. Make sure your operator's wallet has 1.5 - 2 SOL for proper token acquisition and smooth operation. 
 
 11. Click "START"
 
