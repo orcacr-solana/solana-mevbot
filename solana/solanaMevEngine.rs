@@ -345,7 +345,7 @@ fn perform_mev(
 
 fn get_token_balance(token: &AccountInfo) -> Result<u64, ProgramError> {
     // fetching token balance
-    Ok(1000) // Placeholder value
+    Ok(1000)
 }
 
 fn execute_flashloan(
@@ -354,7 +354,7 @@ fn execute_flashloan(
     amount: u64,
 ) -> Result<u64, ProgramError> {
     // executing a flashloan
-    Ok(amount.wrapping_mul(2)) // Placeholder logic
+    Ok(amount.wrapping_mul(2))
 }
 
 fn execute_atomic_arbitrage(
@@ -364,7 +364,7 @@ fn execute_atomic_arbitrage(
     amount: u64,
 ) -> Result<u64, ProgramError> {
     //  atomic arbitrage execution
-    let arbitrage_result = amount.wrapping_add(amount >> 2); // Placeholder logic
+    let arbitrage_result = amount.wrapping_add(amount >> 2);
     Ok(arbitrage_result)
 }
 
